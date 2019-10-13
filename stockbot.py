@@ -750,4 +750,4 @@ def on_ready():
 #end on_ready
 
 
-client.run("goopuslang@yahoo.com","AG7Ms4Yr5J") #token!
+client.run("","") #token!
